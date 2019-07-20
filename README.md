@@ -53,3 +53,10 @@ For this project, I was interestested in using data from @WeRateDogs to better u
 The project contains pdf file report for all questions and answers that I provide it earlier beside the Jupiter python file contain code of analyzing and visualization also there is dataset used for predict some of the information beside twitter archive dataset used for getting some information about dogs.  
 
 
+## Results<a name="results"></a>
+
+I write nice artical about my results available [here]().
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to twiter and Udacity for all dataset that help me to figure out all answers and anlysing.  You can find the Licensing for the for using twitter api  available [here](https://developer.twitter.com/).  Otherwise, you are free to use the code here as you would like! 
